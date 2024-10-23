@@ -1,0 +1,27 @@
+.background{
+    background-image: url(/src/assets/Background-Login.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    box-shadow: 0 .50rem .50rem blue ;
+}
+
+.login-contrainer{
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 15%;
+    text-align: center;
+    width: 350px;
+    color: white;
+    height: fit-content;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 30px;
+}
+
+#btn {
+    margin: 10px;
+    width: 30%;
+    padding: 10px;
+}

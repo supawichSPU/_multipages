@@ -1,0 +1,23 @@
+.add-contrainer{
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem 0.5rem;
+    margin-bottom: 0.5rem;
+    background-color: lightgray;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+}
+.add-title{
+    color: red;
+}
+.add-variable{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: .5rem;
+}
+.add-display{
+    display: flex;
+    gap: .2rem;
+    justify-content: space-between;
+}
